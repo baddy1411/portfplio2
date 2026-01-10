@@ -96,14 +96,14 @@ export const PROJECTS: Project[] = [
   {
     title: 'Multi-Agent Logistics Optimizer',
     description: 'Multi-agent prototype where autonomous agents query inventory tables to propose reorder schedules. Features Chain of Thought visualization via Streamlit.',
-    link: '#',
+    link: 'https://github.com/baddy1411/multi-agent-logistics-optimizer',
     tech: ['LangGraph', 'DuckDB', 'Streamlit', 'Python'],
     icon: 'Package'
   },
   {
     title: 'Real-Time Stock Market Pipeline',
     description: 'Ingested live stock prices from Finnhub API using Kafka (10K+ events/min). Processed streams with Spark Structured Streaming and visualized via Grafana.',
-    link: '#',
+    link: 'https://github.com/baddy1411/real-time-stock-market-pipeline',
     tech: ['Kafka', 'Spark Streaming', 'Grafana', 'API'],
     icon: 'LineChart'
   }
